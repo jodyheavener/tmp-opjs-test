@@ -11,6 +11,6 @@
     "typescript": "^5.1.6"
   },
   "dependencies": {
-    "@1password/op-js": "link:../op-js"
+    "@1password/op-js": "0.1.10"
   }
 }

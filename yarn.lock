@@ -2,9 +2,13 @@
 # yarn lockfile v1
 
 
-"@1password/op-js@link:../op-js":
-  version "0.0.0"
-  uid ""
+"@1password/op-js@0.1.10":
+  version "0.1.10"
+  resolved "https://registry.yarnpkg.com/@1password/op-js/-/op-js-0.1.10.tgz#220e599f82e51c107e7779ab9f882ea3fab3fd7e"
+  integrity sha512-hgSRgEm/srf1ZB5VPIJgY5Wy2zLk3E/XvYxdUIF5VzgMSITYvMj7CgLzI0pcxlk0HMWlmFrFe+Hr2ksFli7Okg==
+  dependencies:
+    lookpath "^1.2.2"
+    semver "^7.3.6"
 
 lookpath@^1.2.2:
   version "1.2.2"
