@@ -1,0 +1,16 @@
+{
+  "name": "opjs-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc && node ./src/index.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "@1password/op-js": "link:../op-js"
+  }
+}
